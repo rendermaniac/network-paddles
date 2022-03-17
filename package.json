@@ -1,0 +1,19 @@
+{
+  "name": "network-paddles",
+  "version": "1.0.0",
+  "description": "networked paddle movement",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p5",
+    "sockets"
+  ],
+  "author": "Simon Bunker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
